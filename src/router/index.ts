@@ -58,6 +58,7 @@ const routes: Array<RouteConfig> = [
   //   name: "About",
   //   component: () =>
   //     import(/* webpackChunkName: "about" */ "../views/About.vue")
+  // making a change
   // }
 ];
 
